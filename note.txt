@@ -1,0 +1,5 @@
+pour copier le depot git clone https://github.com/birametgod/newGitTest.git
+git status pour voir les fichier à commiter
+git add -A pour ajouter tous les fichiers
+git commit -m "addind files" pour commiter avec le message adding files
+git push pour les inserer ici =>https://github.com/birametgod/newGitTest.git 
